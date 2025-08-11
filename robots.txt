@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /404
+Disallow: /policy
+
+Host: https://www.new.display-forum.ru
+Sitemap: https://www.new.display-forum.ru/sitemap.xml
